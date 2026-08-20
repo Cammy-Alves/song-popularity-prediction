@@ -1,4 +1,4 @@
-# Song Popularity Prediction — A Regression Approach
+# Song Popularity Prediction — Regression Project
 
 Regression project predicting Spotify-style song popularity (0-100 scale) from audio features. Three algorithm families covered in the ML course are compared under CRISP-DM: Linear Regression, Decision Tree Regressor, and MLPRegressor (Linear Neural Network).
 
@@ -81,4 +81,5 @@ Python 3.10+, pandas, numpy, scikit-learn (LinearRegression, DecisionTreeRegress
 
 ---
 
+Developed as part of Machine Learning for Marketing at NOVA IMS (Lisbon, 2023) and refactored for public portfolio sharing.
 Author: Camilla Alves.
